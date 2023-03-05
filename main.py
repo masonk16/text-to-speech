@@ -1,4 +1,8 @@
-import os, requests, json, time
+import json
+import os
+import requests
+import time
+
 import PyPDF2
 from dotenv import load_dotenv
 
